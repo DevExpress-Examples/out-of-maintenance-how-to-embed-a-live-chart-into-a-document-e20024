@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Editor.cs](./CS/Editor.cs) (VB: [Editor.vb](./VB/Editor.vb))
+* [ChartField.cs](./CS/Extensions/Chart/ChartField.cs) (VB: [ChartField.vb](./VB/Extensions/Chart/ChartField.vb))
+* [ChartImage.cs](./CS/Extensions/Chart/ChartImage.cs) (VB: [ChartImage.vb](./VB/Extensions/Chart/ChartImage.vb))
+* [FieldCalculatorServiceEx.cs](./CS/Extensions/Chart/FieldCalculatorServiceEx.cs) (VB: [FieldCalculatorServiceEx.vb](./VB/Extensions/Chart/FieldCalculatorServiceEx.vb))
+* [RichEditEx.cs](./CS/Extensions/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/Extensions/RichEditEx.vb))
+<!-- default file list end -->
 # How to embed a live chart into a document
 
 
