@@ -58,59 +58,59 @@
     <ApplicationIcon>favicon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v14.2.Core">
+    <Reference Include="DevExpress.Charts.v15.1.Core">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v14.2">
+    <Reference Include="DevExpress.Data.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v14.2.Core">
+    <Reference Include="DevExpress.Office.v15.1.Core">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v14.2.Core">
+    <Reference Include="DevExpress.Printing.v15.1.Core">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.2.Core">
+    <Reference Include="DevExpress.RichEdit.v15.1.Core">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v14.2">
+    <Reference Include="DevExpress.Utils.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v14.2">
+    <Reference Include="DevExpress.XtraBars.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2.Wizard">
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2">
+    <Reference Include="DevExpress.XtraCharts.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2.UI">
+    <Reference Include="DevExpress.XtraCharts.v15.1.UI">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v14.2">
+    <Reference Include="DevExpress.XtraEditors.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v14.2">
+    <Reference Include="DevExpress.XtraPrinting.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v14.2">
+    <Reference Include="DevExpress.XtraRichEdit.v15.1">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v14.2.Extensions">
+    <Reference Include="DevExpress.XtraRichEdit.v15.1.Extensions">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
